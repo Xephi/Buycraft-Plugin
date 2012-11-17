@@ -1,0 +1,12 @@
+name: Buycraft
+main: net.buycraft.BukkitInterface
+version: 4.4
+author: Buycraft Development Team
+website: https://buycraft.net
+commands:
+   buy:
+      usage: Type /buycraft for assistance
+   ec:
+      usage: /<command>
+   buycraft:
+      usage: /<command> <reload/forcecheck/secret>
